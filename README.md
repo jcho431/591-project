@@ -8,6 +8,6 @@ We will use python plus a package that we installed so that we can run Macaulay2
 https://pypi.org/project/macaulay2-jupyter-kernel/
 
 3. Since Jupyter notebook can only run one kernel at a time by default,
-we need to install the SoS package to run both the python kernel and Macaulay2 kernel at the same time.
+we need to install the SoS package to run both the Python kernel and Macaulay2 kernel at the same time.
 
 https://pypi.org/project/sos/
